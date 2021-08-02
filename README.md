@@ -13,7 +13,7 @@
 
 - 📫 Contactez-moi sur **ndegarrigues@gmail.com**
 
-- 📄 Know about my experiences [Stage de 3 mois dans un agence de développement web](Stage de 3 mois dans un agence de développement web)
+- 📄 A propos de mes expériences **Stage de 3 mois dans un agence de développement web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
