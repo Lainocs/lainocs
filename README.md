@@ -5,15 +5,15 @@
 
 - 🔭 Je travaille actuellement sur **Un forum associatif numérique**
 
-- 🌱 Je suis actuellement entrain d'apprendre **NodeJS**
+- 🌱 Je suis actuellement entrain d'apprendre **NuxtJS**
 
 - 👨‍💻 Vous pouvez visionner mon portfolio sur [...](...)
 
-- 💬 Demandez-moi pour du **Laravel & Symfony**
+- 💬 Demandez-moi pour du **VueJS, Laravel ou Symfony**
 
 - 📫 Contactez-moi sur **ndegarrigues@gmail.com**
 
-- 📄 A propos de mes expériences **Stage de 3 mois dans un agence de développement web**
+- 📄 A propos de mes expériences **Développeur Laravel/VueJS en alternance**
 
 <h3 align="left">Ajoutez-moi sur LikedIn :</h3>
 <p align="left">
