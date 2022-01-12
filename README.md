@@ -1,19 +1,19 @@
-<h1 align="center">Hello there 👋, Je suis Nicolas de Garrigues</h1>
-<h3 align="center">Je suis étudiant développeur full stack en alternance</h3>
+<h1 align="center">Hello there 👋, moi c'est Nicolas de Garrigues</h1>
+<h3 align="center">Je suis un petit développeur full stack en alternance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lainocs&label=Profile%20views&color=0e75b6&style=flat" alt="lainocs" /> </p>
 
 - 🔭 Je travaille actuellement sur **Un forum associatif numérique**
 
-- 🌱 Je suis actuellement entrain d'apprendre **NuxtJS**
+- 🌱 Je suis actuellement entrain d'apprendre **NodeJS && ReactJS**
 
-- 👨‍💻 Vous pouvez visionner mon portfolio sur [...](...)
+- 👨‍💻 Vous pouvez visionner mon portfolio sur [](...)
 
 - 💬 Demandez-moi pour du **VueJS, Laravel ou Symfony**
 
 - 📫 Contactez-moi sur **ndegarrigues@gmail.com**
 
-- 📄 A propos de mes expériences **Développeur Laravel/VueJS en alternance**
+- 📄 A propos de mes expériences: **Développeur Laravel/VueJS en alternance**
 
 <h3 align="left">Ajoutez-moi sur LikedIn :</h3>
 <p align="left">
