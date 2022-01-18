@@ -7,7 +7,7 @@
 
 - 🌱 Je suis actuellement entrain d'apprendre **NodeJS && ReactJS**
 
-- 👨‍💻 Vous pouvez visionner mon portfolio sur [](...)
+- 👨‍💻 Vous pouvez visionner mon portfolio sur [ici](https://ndegarrigues-portfolio.vercel.app/)
 
 - 💬 Demandez-moi pour du **VueJS, Laravel ou Symfony**
 
