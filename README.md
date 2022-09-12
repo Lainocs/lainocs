@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, moi c'est Nicolas de Garrigues</h1>
-<h3 align="center">Actuellement Développeur Full Stack en alternance</h3>
+<h3 align="center">Actuellement Professeur en alternance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lainocs&label=Profile%20views&color=0e75b6&style=flat" alt="lainocs" /> </p>
 
