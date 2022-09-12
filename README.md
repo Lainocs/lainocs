@@ -13,7 +13,7 @@
 
 - 📫 Contactez-moi sur **ndegarrigues@gmail.com**
 
-- 📄 A propos de mes expériences: **Développeur Laravel/VueJS en alternance, Développeur Wordpress**
+- 📄 A propos de mes expériences: **Professeur, Développeur Laravel/VueJS**
 
 <h3 align="left">Ajoutez-moi sur LikedIn :</h3>
 <p align="left">
