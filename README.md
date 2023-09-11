@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, moi c'est Nicolas de Garrigues</h1>
 <h3 align="center">Actuellement Professeur en alternance</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=lainocs&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lainocs&label=Profile%20views&color=0e75b6&style=flat" alt="lainocs" /> </p>
 
 - 🔭 Je travaille actuellement sur **une application mobile dédiée à des besoins utilisateurs imminents**
