@@ -5,9 +5,7 @@
 
 - 🔭 Je travaille actuellement sur **une application mobile dédiée à des besoins utilisateurs imminents**
 
-- 👨‍💻 Vous pouvez visionner mon portfolio [ici](https://ndegarrigues.vercel.app/)
-
-- 💬 Demandez-moi pour du **Vue.js, Svelte, Node.js ou Laravel**
+- 💬 Demandez-moi pour du **Javascript** ou **PHP**
 
 - 📫 Contactez-moi sur **ndegarrigues@gmail.com**
 
