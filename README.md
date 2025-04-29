@@ -21,7 +21,6 @@
 
 **<h3 align="left">Rapid Fire:</h3>**
 
-- 🌱 I'm currently learning: **📚 GraphQL**
 - 💬 Ask me about: **💡 PHP and JS, regardless of framework**
 - ⚡ Fun fact: **🧙‍♂️ I'm a PHP lover in disguise as a JavaScript dev**<br /><br /><br />
 
