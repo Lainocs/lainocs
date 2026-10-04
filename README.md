@@ -21,6 +21,7 @@ Avant de me lancer, j'ai passé deux ans comme développeur chez [Escape](https:
 | **Léa Marchetti** | Photographe : galeries plein écran, demande de devis détaillée. | [photo.lainocs.fr](https://photo.lainocs.fr) |
 | **Clinique des Murs-à-Pêches** | Clinique vétérinaire : prise de rendez-vous, page urgences. | [veto.lainocs.fr](https://veto.lainocs.fr) |
 | **Vidéoclub 3D** | Un vidéoclub à explorer dans le navigateur, avec ma watchlist Letterboxd sur les étagères. | [videoclub.lainocs.fr](https://videoclub.lainocs.fr) |
+| **Pulsar** | Mes statistiques Spotify en direct : écoute en cours, artistes et titres du moment, via l'API Spotify. | [pulsar.lainocs.fr](https://pulsar.lainocs.fr) |
 
 Les sites de commerces sont des projets fictifs, construits comme de vraies commandes.
 
