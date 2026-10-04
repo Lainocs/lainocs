@@ -13,17 +13,24 @@ Avant de me lancer, j'ai passé deux ans comme développeur chez [Escape](https:
 
 ## Projets
 
-| Projet | Ce que ça montre | Lien |
-| --- | --- | --- |
-| **Zestal** | Logiciel de gestion des commandes et des stocks pour petits restaurants, avec suggestions de plats du jour anti-gaspillage. En développement. | [zestal.fr](https://zestal.fr) |
-| **Maison Corbière** | Boucherie artisanale : commande à l'avance, découpe du bœuf interactive en 3D. | [butcher.lainocs.fr](https://butcher.lainocs.fr) |
-| **Onggi** | Cantine coréenne : carte filtrable avec allergènes, réservation, site en trois langues. | [korean.lainocs.fr](https://korean.lainocs.fr) |
-| **Léa Marchetti** | Photographe : galeries plein écran, demande de devis détaillée. | [photo.lainocs.fr](https://photo.lainocs.fr) |
-| **Clinique des Murs-à-Pêches** | Clinique vétérinaire : prise de rendez-vous, page urgences. | [veto.lainocs.fr](https://veto.lainocs.fr) |
-| **Vidéoclub 3D** | Un vidéoclub à explorer dans le navigateur, avec ma watchlist Letterboxd sur les étagères. | [videoclub.lainocs.fr](https://videoclub.lainocs.fr) |
-| **Pulsar** | Mes statistiques Spotify en direct : écoute en cours, artistes et titres du moment, via l'API Spotify. | [pulsar.lainocs.fr](https://pulsar.lainocs.fr) |
+### Zestal, mon logiciel pour restaurants (en développement)
 
-Les sites de commerces sont des projets fictifs, construits comme de vraies commandes.
+[<img src="https://www.lainocs.fr/projects/zestal-d-960.webp" alt="Zestal, logiciel de gestion pour restaurants" width="640" />](https://zestal.fr)
+
+Logiciel de gestion des commandes et des stocks pour petits restaurants, que je développe en parallèle. Plan de salle en direct, prise de commande sur tablette, stock avec dates de péremption, marge calculée par plat, et suggestions de plats du jour à partir des produits proches de la date limite, pour réduire le gaspillage. → [zestal.fr](https://zestal.fr)
+
+### Autres projets
+
+| Projet | Nature | Ce que ça montre | Lien |
+| --- | --- | --- | --- |
+| **Pulsar** | Projet perso | Mes statistiques Spotify en direct : écoute en cours, artistes et titres du moment, via l'API Spotify. | [pulsar.lainocs.fr](https://pulsar.lainocs.fr) |
+| **Vidéoclub 3D** | Projet perso | Un vidéoclub à explorer dans le navigateur, avec ma watchlist Letterboxd sur les étagères. | [videoclub.lainocs.fr](https://videoclub.lainocs.fr) |
+| **Maison Corbière** | Commande fictive | Boucherie artisanale : commande à l'avance, découpe du bœuf interactive en 3D. | [butcher.lainocs.fr](https://butcher.lainocs.fr) |
+| **Onggi** | Commande fictive | Cantine coréenne : carte filtrable avec allergènes, réservation, site en trois langues. | [korean.lainocs.fr](https://korean.lainocs.fr) |
+| **Léa Marchetti** | Commande fictive | Photographe : galeries plein écran, demande de devis détaillée. | [photo.lainocs.fr](https://photo.lainocs.fr) |
+| **Clinique des Murs-à-Pêches** | Commande fictive | Clinique vétérinaire : prise de rendez-vous, page urgences. | [veto.lainocs.fr](https://veto.lainocs.fr) |
+
+Les commandes fictives sont des sites de commerces construits comme de vraies commandes.
 
 ## Stack
 
