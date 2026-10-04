@@ -5,9 +5,9 @@
 
 # Nicolas de Garrigues
 
-Développeur web freelance à Paris.
+Développeur web freelance à Paris, en renfort des agences et au service des commerces.
 
-Je conçois et développe des sites rapides, soignés et faciles à faire évoluer, pour les agences qui ont besoin de renfort et pour les commerces qui veulent un site qui leur ressemble.
+J'interviens sur vos projets comme un membre de l'équipe, y compris en marque blanche : vos clients ne voient que vous. Pour un commerce, je construis un site qui lui ressemble, rapide et facile à faire évoluer. Je réponds sous 24 h.
 
 Avant de me lancer, j'ai passé deux ans comme développeur chez [Escape](https://escape.tech) (YC W23), une startup parisienne spécialisée dans la sécurité des API.
 
