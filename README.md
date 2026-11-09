@@ -13,12 +13,6 @@ Avant de me lancer, j'ai passé deux ans comme développeur chez [Escape](https:
 
 ## Projets
 
-### Albus, un logiciel de planning pour les écoles (en conception)
-
-Je construis Albus, un outil de planification pour les écoles privées et les centres de formation : mise en place de l'année en quelques minutes à partir de fichiers existants, planning clair et fiable pour les coordinateurs, les intervenants et les étudiants.
-
-### Autres projets
-
 | Projet | Nature | Ce que ça montre | Lien |
 | --- | --- | --- | --- |
 | **Pulsar** | Projet perso | Mes statistiques Spotify en direct : écoute en cours, artistes et titres du moment, via l'API Spotify. | [pulsar.lainocs.fr](https://pulsar.lainocs.fr) |
