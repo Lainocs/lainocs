@@ -105,6 +105,6 @@ text { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'D
 <text x="688.4" y="444.0" class="d" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">...............</text>
 <text x="803.6" y="444.0" class="v" textLength="28.8" lengthAdjust="spacing" xml:space="preserve">2020</text>
 <text x="422.0" y="460.0" class="k" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">Languages.Top:</text>
-<text x="530.0" y="460.0" class="d" textLength="86.4" lengthAdjust="spacing" xml:space="preserve">............</text>
-<text x="623.6" y="460.0" class="v" textLength="216.0" lengthAdjust="spacing" xml:space="preserve">JavaScript, TypeScript, Python</text>
+<text x="530.0" y="460.0" class="d" textLength="28.8" lengthAdjust="spacing" xml:space="preserve">....</text>
+<text x="566.0" y="460.0" class="v" textLength="273.6" lengthAdjust="spacing" xml:space="preserve">TypeScript, JavaScript, Python, Svelte</text>
 </svg>
