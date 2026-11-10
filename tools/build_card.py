@@ -83,7 +83,6 @@ def info_lines(stats: dict) -> list:
         ("section", "GitHub Stats"),
         ("pair", ("Repos", str(stats["repos"])), ("Followers", str(stats["followers"]))),
         ("pair", ("Contributions", contributions), ("Since", stats["since"])),
-        ("kv", "Languages.Top", langs),
     ]
 
 
