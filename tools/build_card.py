@@ -16,9 +16,9 @@ CW = 7.2  # character cell width
 LH = 16  # line height
 PAD = 26
 BAR = 34  # window title bar
-ART_CW = 4.9  # the portrait uses a finer grid than the text
-ART_LH = 10.4
-ART_FS = 8.2
+ART_CW = 4.2  # the portrait uses a finer grid than the text
+ART_LH = 8.9
+ART_FS = 7.0
 GAP_PX = 28
 INFO_COLS = 58
 

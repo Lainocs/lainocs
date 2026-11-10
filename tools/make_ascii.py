@@ -19,9 +19,43 @@ import cv2
 import numpy as np
 
 ROOT = Path(__file__).resolve().parent.parent
-COLS = 72
-CHAR_ASPECT = 0.47  # cell width / cell height of the card's art grid
-RAMP = " .:-=+*#%@"  # light -> dense
+COLS = 100
+CHAR_ASPECT = 4.2 / 8.9  # must match the art grid in build_card.py
+
+
+def build_ramp(steps: int = 16) -> str:
+    """Pick characters whose ink coverage rises evenly, measured on a real monospace font."""
+    from PIL import Image, ImageDraw, ImageFont
+
+    font = None
+    for path in (
+        "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf",
+        "/System/Library/Fonts/Menlo.ttc",
+        "/Library/Fonts/Courier New.ttf",
+    ):
+        try:
+            font = ImageFont.truetype(path, 24)
+            break
+        except OSError:
+            continue
+    if font is None:
+        return " .,:;-~=+*?#%&@"
+    scores = {}
+    for ch in "".join(chr(c) for c in range(32, 127)):
+        im = Image.new("L", (20, 32), 0)
+        ImageDraw.Draw(im).text((2, 2), ch, font=font, fill=255)
+        scores[ch] = np.asarray(im, dtype=float).mean()
+    ordered = sorted(scores, key=scores.get)
+    top = scores[ordered[-1]]
+    ramp = []
+    for i in range(steps):
+        target = top * i / (steps - 1)
+        best = min((c for c in ordered if c not in ramp), key=lambda c: abs(scores[c] - target))
+        ramp.append(best)
+    return "".join(sorted(ramp, key=scores.get))
+
+
+RAMP = build_ramp()  # light -> dense
 
 
 def box(text: str) -> tuple[int, int, int, int]:
@@ -69,7 +103,9 @@ def main() -> None:
 
     # local contrast so the face keeps its relief
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    gray = cv2.createCLAHE(clipLimit=2.5, tileGridSize=(6, 6)).apply(gray).astype(float) / 255.0
+    gray = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8, 8)).apply(gray)
+    blur = cv2.GaussianBlur(gray, (0, 0), 3)
+    gray = np.clip(cv2.addWeighted(gray, 1.8, blur, -0.8, 0), 0, 255).astype(float) / 255.0
 
     rows = round(COLS * h / w * CHAR_ASPECT)
     ys = np.linspace(0, h, rows + 1).astype(int)
