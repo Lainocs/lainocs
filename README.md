@@ -34,5 +34,3 @@ Avant de me lancer, j'ai passé deux ans comme développeur chez [Escape](https:
 Les commandes fictives sont des sites de commerces construits comme de vraies commandes.
 
 Un projet ou besoin de renfort ? Écrivez-moi, je réponds sous 24 h.
-
-<sub>La carte et le graphe sont régénérés chaque jour par une GitHub Action (voir <code>tools/</code>). Idée de la carte : le profil d'<a href="https://github.com/Andrew6rant">Andrew6rant</a>.</sub>
