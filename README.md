@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-<p align="left"><a href="https://lainocs.fr"><picture><source media="(prefers-color-scheme: dark)" srcset="link_portfolio_dark.svg"><img alt="Portfolio" width="32.5%" src="link_portfolio_light.svg"></picture></a><a href="https://www.linkedin.com/in/nicolasdegarrigues"><picture><source media="(prefers-color-scheme: dark)" srcset="link_linkedin_dark.svg"><img alt="LinkedIn" width="32.5%" src="link_linkedin_light.svg"></picture></a><a href="https://www.malt.fr/profile/nicolasdegarrigues"><picture><source media="(prefers-color-scheme: dark)" srcset="link_malt_dark.svg"><img alt="Malt" width="32.5%" src="link_malt_light.svg"></picture></a></p>
+<p align="left"><a href="https://lainocs.fr"><picture><source media="(prefers-color-scheme: dark)" srcset="link_portfolio_dark.svg"><img alt="Portfolio" width="186" src="link_portfolio_light.svg"></picture></a><a href="https://www.linkedin.com/in/nicolasdegarrigues"><picture><source media="(prefers-color-scheme: dark)" srcset="link_linkedin_dark.svg"><img alt="LinkedIn" width="186" src="link_linkedin_light.svg"></picture></a><a href="https://www.malt.fr/profile/nicolasdegarrigues"><picture><source media="(prefers-color-scheme: dark)" srcset="link_malt_dark.svg"><img alt="Malt" width="186" src="link_malt_light.svg"></picture></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="pacman_dark.svg">
