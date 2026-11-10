@@ -4,7 +4,7 @@ Generates the SVGs shown in the profile README.
 
 | File | Role |
 | --- | --- |
-| `make_ascii.py` | One-off: turns `assets/portrait.png` into the coloured ASCII portrait `assets/portrait-ascii.json` |
+| `make_ascii.py` | One-off: turns `assets/portrait.png` into the monochrome ASCII portrait `assets/portrait-ascii.json` |
 | `fetch_stats.py` | Reads public GitHub numbers into `cache/stats.json` (needs `GITHUB_TOKEN`) |
 | `build_card.py` | `dark_mode.svg` / `light_mode.svg`, the neofetch-style card with an ASCII portrait |
 | `build_pacman.py` | `pacman_*.svg`, the animated contribution graph |

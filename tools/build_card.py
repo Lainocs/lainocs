@@ -4,7 +4,6 @@ Reads assets/portrait-ascii.json and cache/stats.json. Every text run is placed 
 fixed character grid with an explicit textLength, so the columns stay aligned
 whatever monospace font the viewer's browser ends up using.
 """
-import colorsys
 import json
 from pathlib import Path
 
@@ -24,33 +23,6 @@ GAP_PX = 28
 INFO_COLS = 58
 
 HANDLE = "nicolas@lainocs"
-
-
-def lift(hex_colour: str, theme_name: str) -> str:
-    """Adapt a portrait colour to the card: lift the shadows on dark, deepen the lights on light."""
-    r, g, b = (int(hex_colour[i : i + 2], 16) / 255 for i in (1, 3, 5))
-    h, sat, v = colorsys.rgb_to_hsv(r, g, b)
-    if theme_name == "dark":
-        v = 0.42 + 0.58 * v
-    else:
-        v = min(v, 0.82)
-        sat = min(1.0, sat * 1.2)
-    r, g, b = colorsys.hsv_to_rgb(h, sat, v)
-    return "#%02x%02x%02x" % (round(r * 255), round(g * 255), round(b * 255))
-
-
-def art_line(line: str, colours: list, theme_name: str) -> str:
-    """One portrait row as <tspan> runs sharing a colour."""
-    runs: list[list[str]] = []
-    for ch, col in zip(line, colours):
-        col = lift(col, theme_name)
-        if runs and runs[-1][1] == col:
-            runs[-1][0] += ch
-        else:
-            runs.append([ch, col])
-    return "".join(
-        f'<tspan fill="{col}">{esc(text)}</tspan>' if text.strip() else esc(text) for text, col in runs
-    )
 
 
 def info_lines(stats: dict) -> list:
@@ -114,7 +86,7 @@ def render(theme_name: str, art: dict, stats: dict) -> str:
     t = THEMES[theme_name]
     c = Canvas(t)
     info = info_lines(stats)
-    lines = art["rows"]
+    lines = art[theme_name]
     art_w = max(len(l) for l in lines) * ART_CW
     art_h = len(lines) * ART_LH
     info_x = art_w + GAP_PX
@@ -127,7 +99,7 @@ def render(theme_name: str, art: dict, stats: dict) -> str:
     art_top = y0 + max((len(info) * LH - art_h) / 2, 0) - 6
     portrait = "\n".join(
         f'<text x="{PAD}" y="{art_top + (i + 1) * ART_LH:.1f}" class="a" textLength="{len(line) * ART_CW:.1f}" '
-        f'lengthAdjust="spacing" xml:space="preserve">{art_line(line, art["colors"][i], theme_name)}</text>'
+        f'lengthAdjust="spacing" xml:space="preserve">{esc(line)}</text>'
         for i, line in enumerate(lines)
         if line.strip()
     )
@@ -168,7 +140,7 @@ text {{ font-family: {FONT}; font-size: {FS}px; white-space: pre; }}
 .k {{ fill: {t['key']}; font-weight: 700; }}
 .v {{ fill: {t['value']}; }}
 .d {{ fill: {t['dots']}; }}
-.a {{ font-size: {ART_FS}px; }}
+.a {{ fill: {t['art']}; font-size: {ART_FS}px; }}
 .bar {{ fill: {t['text']}; font-size: 11px; }}
 </style>
 <rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="12" fill="{t['panel']}" stroke="{t['border']}"/>
