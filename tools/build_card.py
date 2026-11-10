@@ -5,6 +5,7 @@ fixed character grid with an explicit textLength, so the columns stay aligned
 whatever monospace font the viewer's browser ends up using.
 """
 import json
+import sys
 from pathlib import Path
 
 from theme import FONT, THEMES, esc
@@ -155,9 +156,11 @@ text {{ font-family: {FONT}; font-size: {FS}px; white-space: pre; }}
 
 def main() -> None:
     stats = json.loads((ROOT / "cache" / "stats.json").read_text(encoding="utf-8"))
-    art = json.loads((ROOT / "assets" / "portrait-ascii.json").read_text(encoding="utf-8"))
+    art_file = sys.argv[1] if len(sys.argv) > 1 else str(ROOT / "assets" / "portrait-ascii.json")
+    art = json.loads(Path(art_file).read_text(encoding="utf-8"))
     for name in ("dark", "light"):
-        (ROOT / f"{name}_mode.svg").write_text(render(name, art, stats), encoding="utf-8")
+        out = ROOT / f"{name}_mode.svg" if len(sys.argv) < 3 else Path(sys.argv[2]) / f"{name}_mode.svg"
+        out.write_text(render(name, art, stats), encoding="utf-8")
     print("card rebuilt")
 
 

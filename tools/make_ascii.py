@@ -69,17 +69,29 @@ def main() -> None:
     ap.add_argument("--crop", required=True, type=box)
     ap.add_argument("--rect", type=box)
     ap.add_argument("--view", type=box)
+    ap.add_argument("--out", default=str(ROOT / "assets" / "portrait-ascii.json"))
     ap.add_argument("--bg", type=box, action="append", default=[])
     ap.add_argument("--debug", help="write the cut-out preview here")
     args = ap.parse_args()
 
-    img = cv2.imread(args.photo)
+    raw = cv2.imread(args.photo, cv2.IMREAD_UNCHANGED)
+    alpha = None
+    if raw.ndim == 3 and raw.shape[2] == 4:  # a cut-out already (PNG with transparency): no need to guess
+        alpha = raw[:, :, 3]
+        white = np.full_like(raw[:, :, :3], 255)
+        a = (alpha.astype(float) / 255.0)[:, :, None]
+        raw = (raw[:, :, :3] * a + white * (1 - a)).astype(np.uint8)
+    img = raw[:, :, :3] if raw.ndim == 3 else raw
     x0, y0, x1, y1 = args.crop
     img = img[y0:y1, x0:x1]
+    if alpha is not None:
+        alpha = alpha[y0:y1, x0:x1]
     scale = 700 / img.shape[1]
     img = cv2.resize(img, None, fx=scale, fy=scale, interpolation=cv2.INTER_AREA)
     h, w = img.shape[:2]
 
+    if alpha is not None:
+        alpha = cv2.resize(alpha, (w, h), interpolation=cv2.INTER_AREA)
     # cut the person out of the background
     mask = np.full((h, w), cv2.GC_PR_BGD, np.uint8)
     if args.rect:
@@ -89,6 +101,8 @@ def main() -> None:
             mask[max(0, int((by0 - y0) * scale)) : max(0, int((by1 - y0) * scale)), max(0, int((bx0 - x0) * scale)) : max(0, int((bx1 - x0) * scale))] = cv2.GC_BGD
         cv2.grabCut(img, mask, None, np.zeros((1, 65)), np.zeros((1, 65)), 8, cv2.GC_INIT_WITH_MASK)
     person = np.isin(mask, (cv2.GC_FGD, cv2.GC_PR_FGD)).astype(np.uint8)
+    if alpha is not None:
+        person = (alpha > 110).astype(np.uint8)
     person = cv2.morphologyEx(person, cv2.MORPH_OPEN, np.ones((5, 5), np.uint8))
     person = cv2.morphologyEx(person, cv2.MORPH_CLOSE, np.ones((15, 15), np.uint8))
     if args.view:
@@ -135,7 +149,7 @@ def main() -> None:
         "light": to_lines(normalise(1.0 - lum, 1.2)),
         "dark": to_lines(normalise(lum, 1.1)),
     }
-    (ROOT / "assets" / "portrait-ascii.json").write_text(json.dumps(art), encoding="utf-8")
+    Path(args.out).write_text(json.dumps(art), encoding="utf-8")
     print(f"{COLS}x{rows}")
 
 
