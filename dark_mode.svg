@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="866" height="496" viewBox="0 0 866 496" role="img" aria-label="Nicolas de Garrigues, développeur web full-stack freelance à Paris. Linux, TypeScript, Next.js, PostgreSQL.">
+<style>
+text { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 12px; white-space: pre; }
+.a { fill: #D4F25A; }
+.h { fill: #D4F25A; font-weight: 700; }
+.k { fill: #D4F25A; font-weight: 700; }
+.v { fill: #F3F4F6; }
+.d { fill: #4B4E56; }
+.bar { fill: #C9CBD1; font-size: 11px; }
+</style>
+<rect x="0.5" y="0.5" width="865" height="495" rx="12" fill="#1D1E22" stroke="#2C2E34"/>
+<path d="M0.5 34 V12.5 a12 12 0 0 1 12 -12 H853.5 a12 12 0 0 1 12 12 V34 Z" fill="#16171A" stroke="#2C2E34"/>
+<circle cx="22" cy="17" r="5" fill="#D4F25A"/><circle cx="38" cy="17" r="5" fill="#A98BD9"/><circle cx="54" cy="17" r="5" fill="#4B4E56"/>
+<text x="433.0" y="21" class="bar" text-anchor="middle">nicolas@lainocs: ~</text>
+<text x="26.0" y="92.0" class="a" textLength="187.2" lengthAdjust="spacing" xml:space="preserve">                   :+=--..</text>
+<text x="26.0" y="108.0" class="a" textLength="216.0" lengthAdjust="spacing" xml:space="preserve">            :--=---*******+=-:</text>
+<text x="26.0" y="124.0" class="a" textLength="230.4" lengthAdjust="spacing" xml:space="preserve">          =*****#*###*++++****+:</text>
+<text x="26.0" y="140.0" class="a" textLength="252.0" lengthAdjust="spacing" xml:space="preserve">        .*#*+***###****+++++*++**=.</text>
+<text x="26.0" y="156.0" class="a" textLength="259.2" lengthAdjust="spacing" xml:space="preserve">      -****##%##*##%%#++**++*##*+**=</text>
+<text x="26.0" y="172.0" class="a" textLength="266.4" lengthAdjust="spacing" xml:space="preserve">     :+***#%@@%*+=-::-**+###*+##*+*#=</text>
+<text x="26.0" y="188.0" class="a" textLength="273.6" lengthAdjust="spacing" xml:space="preserve">    =*****#@%-:...    :+++#%#++*#**##+</text>
+<text x="26.0" y="204.0" class="a" textLength="295.2" lengthAdjust="spacing" xml:space="preserve">   =++**#+#%-  ......::=#**#%#++***%%%%=:</text>
+<text x="26.0" y="220.0" class="a" textLength="295.2" lengthAdjust="spacing" xml:space="preserve">   +-**#%#**:::..  :=--::+***#**+**###%%-</text>
+<text x="26.0" y="236.0" class="a" textLength="302.4" lengthAdjust="spacing" xml:space="preserve">   =***%%#**---:..:: .-*+:==*****##%#####=</text>
+<text x="26.0" y="252.0" class="a" textLength="316.8" lengthAdjust="spacing" xml:space="preserve">  :#**#%#*#=.:+*=:.-...=:.: :*+*##%%###**++:</text>
+<text x="26.0" y="268.0" class="a" textLength="316.8" lengthAdjust="spacing" xml:space="preserve">  .###%%%+%=..--=. .:...... .***%%%%#*+**#*.</text>
+<text x="26.0" y="284.0" class="a" textLength="309.6" lengthAdjust="spacing" xml:space="preserve">   ::*@%%%#+ .... ......:. ..+***###*##*##-</text>
+<text x="26.0" y="300.0" class="a" textLength="302.4" lengthAdjust="spacing" xml:space="preserve">    .**%#%@+....:=-===-=++: ...##***#%%%@%</text>
+<text x="26.0" y="316.0" class="a" textLength="309.6" lengthAdjust="spacing" xml:space="preserve">    .  *#*%%. -+=+-::--=..-  .=#*+%@%@%@#+.</text>
+<text x="26.0" y="332.0" class="a" textLength="295.2" lengthAdjust="spacing" xml:space="preserve">      .:+#%@* :- ::--:.  :#++*%##@@%%%*#.</text>
+<text x="26.0" y="348.0" class="a" textLength="295.2" lengthAdjust="spacing" xml:space="preserve">        -*%%@#+#-  :-: .-*####*:-@%%%%%*:</text>
+<text x="26.0" y="364.0" class="a" textLength="288.0" lengthAdjust="spacing" xml:space="preserve">          .:@@%##*=-+++*####+-. .#@@%%%+</text>
+<text x="26.0" y="380.0" class="a" textLength="280.8" lengthAdjust="spacing" xml:space="preserve">           ..*@%%########+=:.... :**#+.</text>
+<text x="26.0" y="396.0" class="a" textLength="273.6" lengthAdjust="spacing" xml:space="preserve">             ..=*%%=---::........ :=-.</text>
+<text x="26.0" y="412.0" class="a" textLength="302.4" lengthAdjust="spacing" xml:space="preserve">                 :-+........  ..:=====--..</text>
+<text x="26.0" y="428.0" class="a" textLength="316.8" lengthAdjust="spacing" xml:space="preserve">           ..:--=-=::  .. ..::-=========-=-:</text>
+<text x="422.0" y="60.0" class="h" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">nicolas@lainocs</text>
+<text x="537.2" y="60.0" class="d" textLength="302.4" lengthAdjust="spacing" xml:space="preserve">------------------------------------------</text>
+<text x="422.0" y="76.0" class="k" textLength="21.6" lengthAdjust="spacing" xml:space="preserve">OS:</text>
+<text x="450.8" y="76.0" class="d" textLength="208.8" lengthAdjust="spacing" xml:space="preserve">.............................</text>
+<text x="666.8" y="76.0" class="v" textLength="172.8" lengthAdjust="spacing" xml:space="preserve">Linux (CachyOS), Windows</text>
+<text x="422.0" y="92.0" class="k" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">Host:</text>
+<text x="465.2" y="92.0" class="d" textLength="230.4" lengthAdjust="spacing" xml:space="preserve">................................</text>
+<text x="702.8" y="92.0" class="v" textLength="136.8" lengthAdjust="spacing" xml:space="preserve">Lainocs (freelance)</text>
+<text x="422.0" y="108.0" class="k" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">Kernel:</text>
+<text x="479.6" y="108.0" class="d" textLength="180.0" lengthAdjust="spacing" xml:space="preserve">.........................</text>
+<text x="666.8" y="108.0" class="v" textLength="172.8" lengthAdjust="spacing" xml:space="preserve">Full-stack web developer</text>
+<text x="422.0" y="124.0" class="k" textLength="79.2" lengthAdjust="spacing" xml:space="preserve">Previously:</text>
+<text x="508.4" y="124.0" class="d" textLength="151.2" lengthAdjust="spacing" xml:space="preserve">.....................</text>
+<text x="666.8" y="124.0" class="v" textLength="172.8" lengthAdjust="spacing" xml:space="preserve">Escape (YC W23), 2 years</text>
+<text x="422.0" y="140.0" class="k" textLength="64.8" lengthAdjust="spacing" xml:space="preserve">Teaching:</text>
+<text x="494.0" y="140.0" class="d" textLength="266.4" lengthAdjust="spacing" xml:space="preserve">.....................................</text>
+<text x="767.6" y="140.0" class="v" textLength="72.0" lengthAdjust="spacing" xml:space="preserve">IIM, Paris</text>
+<text x="422.0" y="156.0" class="k" textLength="64.8" lengthAdjust="spacing" xml:space="preserve">Location:</text>
+<text x="494.0" y="156.0" class="d" textLength="244.8" lengthAdjust="spacing" xml:space="preserve">..................................</text>
+<text x="746.0" y="156.0" class="v" textLength="93.6" lengthAdjust="spacing" xml:space="preserve">Paris, France</text>
+<text x="422.0" y="188.0" class="k" textLength="158.4" lengthAdjust="spacing" xml:space="preserve">Languages.Programming:</text>
+<text x="587.6" y="188.0" class="d" textLength="28.8" lengthAdjust="spacing" xml:space="preserve">....</text>
+<text x="623.6" y="188.0" class="v" textLength="216.0" lengthAdjust="spacing" xml:space="preserve">TypeScript, JavaScript, Python</text>
+<text x="422.0" y="204.0" class="k" textLength="136.8" lengthAdjust="spacing" xml:space="preserve">Languages.Computer:</text>
+<text x="566.0" y="204.0" class="d" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">..............</text>
+<text x="674.0" y="204.0" class="v" textLength="165.6" lengthAdjust="spacing" xml:space="preserve">HTML, CSS, SQL, GraphQL</text>
+<text x="422.0" y="220.0" class="k" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">Languages.Real:</text>
+<text x="537.2" y="220.0" class="d" textLength="187.2" lengthAdjust="spacing" xml:space="preserve">..........................</text>
+<text x="731.6" y="220.0" class="v" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">French, English</text>
+<text x="422.0" y="252.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Stack:</text>
+<text x="472.4" y="252.0" class="d" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">.....</text>
+<text x="515.6" y="252.0" class="v" textLength="324.0" lengthAdjust="spacing" xml:space="preserve">Next.js, React, Tailwind, Node.js, PostgreSQL</text>
+<text x="422.0" y="268.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Focus:</text>
+<text x="472.4" y="268.0" class="d" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">...............</text>
+<text x="587.6" y="268.0" class="v" textLength="252.0" lengthAdjust="spacing" xml:space="preserve">Web apps, 3D on the web, product UI</text>
+<text x="422.0" y="284.0" class="k" textLength="122.4" lengthAdjust="spacing" xml:space="preserve">Hobbies.Software:</text>
+<text x="551.6" y="284.0" class="d" textLength="21.6" lengthAdjust="spacing" xml:space="preserve">...</text>
+<text x="580.4" y="284.0" class="v" textLength="259.2" lengthAdjust="spacing" xml:space="preserve">Self-hosting, Discord bots, Three.js</text>
+<text x="422.0" y="300.0" class="k" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">Hobbies.Other:</text>
+<text x="530.0" y="300.0" class="d" textLength="86.4" lengthAdjust="spacing" xml:space="preserve">............</text>
+<text x="623.6" y="300.0" class="v" textLength="216.0" lengthAdjust="spacing" xml:space="preserve">Cinema, Guitar, Fighting games</text>
+<text x="422.0" y="332.0" class="d" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">- </text>
+<text x="436.4" y="332.0" class="h" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">Contact</text>
+<text x="494.0" y="332.0" class="d" textLength="345.6" lengthAdjust="spacing" xml:space="preserve">------------------------------------------------</text>
+<text x="422.0" y="348.0" class="k" textLength="57.6" lengthAdjust="spacing" xml:space="preserve">Website:</text>
+<text x="486.8" y="348.0" class="d" textLength="273.6" lengthAdjust="spacing" xml:space="preserve">......................................</text>
+<text x="767.6" y="348.0" class="v" textLength="72.0" lengthAdjust="spacing" xml:space="preserve">lainocs.fr</text>
+<text x="422.0" y="364.0" class="k" textLength="64.8" lengthAdjust="spacing" xml:space="preserve">LinkedIn:</text>
+<text x="494.0" y="364.0" class="d" textLength="208.8" lengthAdjust="spacing" xml:space="preserve">.............................</text>
+<text x="710.0" y="364.0" class="v" textLength="129.6" lengthAdjust="spacing" xml:space="preserve">nicolasdegarrigues</text>
+<text x="422.0" y="380.0" class="k" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">Malt:</text>
+<text x="465.2" y="380.0" class="d" textLength="237.6" lengthAdjust="spacing" xml:space="preserve">.................................</text>
+<text x="710.0" y="380.0" class="v" textLength="129.6" lengthAdjust="spacing" xml:space="preserve">nicolasdegarrigues</text>
+<text x="422.0" y="412.0" class="d" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">- </text>
+<text x="436.4" y="412.0" class="h" textLength="86.4" lengthAdjust="spacing" xml:space="preserve">GitHub Stats</text>
+<text x="530.0" y="412.0" class="d" textLength="309.6" lengthAdjust="spacing" xml:space="preserve">-------------------------------------------</text>
+<text x="422.0" y="428.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Repos:</text>
+<text x="472.4" y="428.0" class="d" textLength="122.4" lengthAdjust="spacing" xml:space="preserve">.................</text>
+<text x="602.0" y="428.0" class="v" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">68</text>
+<text x="623.6" y="428.0" class="d" textLength="7.2" lengthAdjust="spacing" xml:space="preserve">|</text>
+<text x="638.0" y="428.0" class="k" textLength="72.0" lengthAdjust="spacing" xml:space="preserve">Followers:</text>
+<text x="717.2" y="428.0" class="d" textLength="93.6" lengthAdjust="spacing" xml:space="preserve">.............</text>
+<text x="818.0" y="428.0" class="v" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">93</text>
+<text x="422.0" y="444.0" class="k" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">Contributions:</text>
+<text x="530.0" y="444.0" class="d" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">......</text>
+<text x="580.4" y="444.0" class="v" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">2,942</text>
+<text x="623.6" y="444.0" class="d" textLength="7.2" lengthAdjust="spacing" xml:space="preserve">|</text>
+<text x="638.0" y="444.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Since:</text>
+<text x="688.4" y="444.0" class="d" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">...............</text>
+<text x="803.6" y="444.0" class="v" textLength="28.8" lengthAdjust="spacing" xml:space="preserve">2020</text>
+<text x="422.0" y="460.0" class="k" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">Languages.Top:</text>
+<text x="530.0" y="460.0" class="d" textLength="86.4" lengthAdjust="spacing" xml:space="preserve">............</text>
+<text x="623.6" y="460.0" class="v" textLength="216.0" lengthAdjust="spacing" xml:space="preserve">JavaScript, TypeScript, Python</text>
+</svg>

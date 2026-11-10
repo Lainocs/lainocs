@@ -1,9 +1,22 @@
-<img src="https://www.lainocs.fr/me/nicolas-720.webp" alt="Portrait dessiné de Nicolas" width="120" align="right" />
-<br>
-<br>
-<br>
+<a href="https://lainocs.fr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img alt="Nicolas de Garrigues, développeur web full-stack freelance à Paris" src="light_mode.svg" width="100%">
+  </picture>
+</a>
 
-# Nicolas de Garrigues
+<p align="left">
+  <a href="https://lainocs.fr"><picture><source media="(prefers-color-scheme: dark)" srcset="link_portfolio_dark.svg"><img alt="Portfolio" width="33%" src="link_portfolio_light.svg"></picture></a>
+  <a href="https://www.linkedin.com/in/nicolasdegarrigues"><picture><source media="(prefers-color-scheme: dark)" srcset="link_linkedin_dark.svg"><img alt="LinkedIn" width="33%" src="link_linkedin_light.svg"></picture></a>
+  <a href="https://www.malt.fr/profile/nicolasdegarrigues"><picture><source media="(prefers-color-scheme: dark)" srcset="link_malt_dark.svg"><img alt="Malt" width="33%" src="link_malt_light.svg"></picture></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="pacman_dark.svg">
+  <img alt="Pac-Man mange mon graphe de contributions GitHub" src="pacman_light.svg" width="100%">
+</picture>
+
+## À propos
 
 Développeur web freelance à Paris, en renfort des agences et au service des commerces.
 
@@ -24,12 +37,6 @@ Avant de me lancer, j'ai passé deux ans comme développeur chez [Escape](https:
 
 Les commandes fictives sont des sites de commerces construits comme de vraies commandes.
 
-## Stack
-
-Next.js · React · TypeScript · Tailwind CSS · Three.js / React Three Fiber · Node.js · PostgreSQL
-
-## Contact
-
 Un projet ou besoin de renfort ? Écrivez-moi, je réponds sous 24 h.
 
-[lainocs.fr](https://lainocs.fr) · [LinkedIn](https://www.linkedin.com/in/nicolasdegarrigues) · [Malt](https://www.malt.fr/profile/nicolasdegarrigues)
+<sub>La carte et le graphe sont régénérés chaque jour par une GitHub Action (voir <code>tools/</code>). Idée de la carte : le profil d'<a href="https://github.com/Andrew6rant">Andrew6rant</a>.</sub>
