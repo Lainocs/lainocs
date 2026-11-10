@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="918" height="496" viewBox="0 0 918 496" role="img" aria-label="Nicolas de Garrigues, développeur web full-stack freelance à Paris. macOS, TypeScript, Next.js, PostgreSQL.">
+<svg xmlns="http://www.w3.org/2000/svg" width="913" height="496" viewBox="0 0 913 496" role="img" aria-label="Nicolas de Garrigues, développeur web full-stack freelance à Paris. macOS, TypeScript, Next.js, PostgreSQL.">
 <style>
 text { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace; font-size: 12px; white-space: pre; }
 .h { fill: #2D1B3F; font-weight: 700; }
@@ -8,125 +8,127 @@ text { font-family: ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'D
 .a { fill: #2D1B3F; font-size: 7.0px; }
 .bar { fill: #3D3F46; font-size: 11px; }
 </style>
-<rect x="0.5" y="0.5" width="917" height="495" rx="12" fill="#FAFAF7" stroke="#E2E3E7"/>
-<path d="M0.5 34 V12.5 a12 12 0 0 1 12 -12 H905.5 a12 12 0 0 1 12 12 V34 Z" fill="#FFFFFF" stroke="#E2E3E7"/>
+<rect x="0.5" y="0.5" width="912" height="495" rx="12" fill="#FAFAF7" stroke="#E2E3E7"/>
+<path d="M0.5 34 V12.5 a12 12 0 0 1 12 -12 H900.5 a12 12 0 0 1 12 12 V34 Z" fill="#FFFFFF" stroke="#E2E3E7"/>
 <circle cx="22" cy="17" r="5" fill="#2D1B3F"/><circle cx="38" cy="17" r="5" fill="#2D1B3F"/><circle cx="54" cy="17" r="5" fill="#BDC0C8"/>
-<text x="459.0" y="21" class="bar" text-anchor="middle">nicolas@lainocs: ~</text>
-<text x="26" y="84.0" class="a" textLength="184.8" lengthAdjust="spacing" xml:space="preserve">                                          }o</text>
-<text x="26" y="92.9" class="a" textLength="222.6" lengthAdjust="spacing" xml:space="preserve">                                     &#x27;:``&#x27;&#x27;``&#x27;&#x27;:rv%d}</text>
-<text x="26" y="101.8" class="a" textLength="243.6" lengthAdjust="spacing" xml:space="preserve">                                  &#x27;r}|:&#x27;&#x27;```   `:|}dOdd}|r</text>
-<text x="26" y="110.7" class="a" textLength="256.2" lengthAdjust="spacing" xml:space="preserve">                                ^vov^` ``&#x27;&#x27;::^rrr|vo%d%vv|||v</text>
-<text x="26" y="119.6" class="a" textLength="268.8" lengthAdjust="spacing" xml:space="preserve">                            r}}r|rr|vvr:``   `&#x27;&#x27;`^vdOo}v^^|}vvoo</text>
-<text x="26" y="128.5" class="a" textLength="281.4" lengthAdjust="spacing" xml:space="preserve">                        :|%8d%o%}&#x27;&#x27;&#x27;&#x27;:^|vv}|:` `:r|%OOo}v^&#x27;&#x27;:r|v%d%</text>
-<text x="26" y="137.4" class="a" textLength="289.8" lengthAdjust="spacing" xml:space="preserve">                    rrrr^rv%OWOd}r:&#x27;```&#x27;` `^|}}|r|vod}}o||^&#x27;&#x27;``&#x27;&#x27;^}O8</text>
-<text x="26" y="146.3" class="a" textLength="302.4" lengthAdjust="spacing" xml:space="preserve">                   rr|r^^v%O8W8Ooov^:&#x27;&#x27;&#x27;:^:&#x27;&#x27;`&#x27;r}ovv}%%}o%%:rr|^^&#x27;&#x27;v%OW%</text>
-<text x="26" y="155.2" class="a" textLength="306.6" lengthAdjust="spacing" xml:space="preserve">                  vvod8WWWW@@WO%}vr|||^::^:^rr|vod8OOO8d|vdWOd%o}vr^^o%dd</text>
-<text x="26" y="164.1" class="a" textLength="315.0" lengthAdjust="spacing" xml:space="preserve">           v}%O88O88WW888888O%}r:&#x27;^r|}}}vr^:rvdddOdo%888W%^^%O8Ooo|^:^oOOdd</text>
-<text x="26" y="173.0" class="a" textLength="323.4" lengthAdjust="spacing" xml:space="preserve">         }}o%OWW@@@@@W8do}vv|^&#x27;   &#x27;&#x27;&#x27;:r}odOv^rv%W@@8o|v}od%:`:oO%}o^:`r%W8%Oo</text>
-<text x="26" y="181.9" class="a" textLength="331.8" lengthAdjust="spacing" xml:space="preserve">      rv}ooooOW@@@@@8ov|r^^:&#x27;     ``&#x27;::^r|v%d%odO8W@@d^&#x27;^^rr` `r}r||:&#x27;:|O@d88dv</text>
-<text x="26" y="190.8" class="a" textLength="336.0" lengthAdjust="spacing" xml:space="preserve">    :r|v%oovo%dWW@Wo|r^:::&#x27;&#x27;`      ``&#x27;::^r|vvd8doo%OW8Wo:`&#x27;`  ` ro^|dorovo%8W8O%</text>
-<text x="26" y="199.7" class="a" textLength="344.4" lengthAdjust="spacing" xml:space="preserve">    rr|o%ddo}ovo8@o^^^::&#x27;&#x27;&#x27;&#x27;&#x27;`````````:::::rr|}%dO8WW@@Wd|&#x27;`     v8:W@Wod%OW@888d%</text>
-<text x="26" y="208.6" class="a" textLength="352.8" lengthAdjust="spacing" xml:space="preserve">   :rrv%dOOOOOv|oO^:::&#x27;&#x27;&#x27;&#x27;``&#x27;&#x27;```    ` `&#x27;::^|vvo%%OWWdOOd%v&#x27;     :%vW@WOO88d%O@@@Odo</text>
-<text x="26" y="217.5" class="a" textLength="361.2" lengthAdjust="spacing" xml:space="preserve">   ^^|}%dO888WO|v%^&#x27;&#x27;``                 ```:rv|v}%oO88%%r|}|`:` ^:dO@@@W}%OOWO%dW888O%</text>
-<text x="26" y="226.4" class="a" textLength="369.6" lengthAdjust="spacing" xml:space="preserve">   ^^ro%dO8WW@@drOr&#x27;``           :::|oo}||r|vor|rroodO8}|&#x27;&#x27;^&#x27;^``||d8@@@W%}}||%O8W8%88O}}</text>
-<text x="26" y="235.3" class="a" textLength="378.0" lengthAdjust="spacing" xml:space="preserve">   :^r}odd8W8WW8}o^`&#x27;&#x27;&#x27;::::&#x27;&#x27;&#x27;``^|v}o}vv||rr|vr|v||}odd%|| ^v:`|o%o@@@@@@WO}|:&#x27;&#x27;:&#x27;:rv}o%%|</text>
-<text x="26" y="244.2" class="a" textLength="390.6" lengthAdjust="spacing" xml:space="preserve">   :^^v}o%W@8Oo}}}vrr^rvoov|^&#x27;&#x27;:r}o}}vr^:&#x27;&#x27;:::&#x27;&#x27;:^v}rrdvv|`r%}|dd8OW@@@@@@@@8O8OO8Odd8dv|vr:^</text>
-<text x="26" y="253.1" class="a" textLength="390.6" lengthAdjust="spacing" xml:space="preserve">    r||r}O@O}ro%ddvr^^rr|vo%v``rvdOddd88WWWW8O%::^rv}^:}v`&#x27;%OO%WW88W@@@@WO%}|}}}|^:``:^rr:` &#x27;</text>
-<text x="26" y="262.0" class="a" textLength="373.8" lengthAdjust="spacing" xml:space="preserve">    ||rv%8Wv^}ddd%o%dOdW@W%W8` ^%8oodOOov}v|r|r:^^^^r|^rr rO@W8W@@WWWW@@@8o|::^:&#x27;`&#x27;&#x27;:^r&#x27;`</text>
-<text x="26" y="270.9" class="a" textLength="373.8" lengthAdjust="spacing" xml:space="preserve">    vvoodW8o}oo8%o}v|r||vvov`  &#x27;|%%v:^^^r^^^&#x27;`&#x27;:&#x27;&#x27;::^:^^v|%W@@8W@@@WW8%%ov}|`:|||r^:::` `</text>
-<text x="26" y="279.8" class="a" textLength="373.8" lengthAdjust="spacing" xml:space="preserve">    v}oOW@Od8o%d}|^&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;|&#x27;  `:^r}v^::&#x27;&#x27;``  `&#x27;:&#x27;::::^rro%dWW@WWW@@WW8%}|:``&#x27;r|``rr``&#x27;r|^</text>
-<text x="26" y="288.7" class="a" textLength="373.8" lengthAdjust="spacing" xml:space="preserve">     %o8@WOO8O%}|r:&#x27;````^|`   `&#x27;::&#x27;^vr^::^rrrr:&#x27;&#x27;::^^rr}%%%88WWW88OO%vr:&#x27;::::&#x27;`:^&#x27; ``r}}v</text>
-<text x="26" y="297.6" class="a" textLength="369.6" lengthAdjust="spacing" xml:space="preserve">     o8o8@8OOOOv^&#x27;&#x27;&#x27;:::^^&#x27;    `&#x27;::``^v||^&#x27;     `&#x27;:^^r||v}%%OWWO8WWWWOdv^&#x27;&#x27;&#x27;:r%d8%}%OO88d</text>
-<text x="26" y="306.5" class="a" textLength="365.4" lengthAdjust="spacing" xml:space="preserve">      %:OW888@d^`    `:}v```&#x27;:^rvv|v%%|vod}r:&#x27;&#x27;&#x27;&#x27;&#x27;::rrrv|}%dO8888OOO%}r:::|vo%oooOW@@@W</text>
-<text x="26" y="315.4" class="a" textLength="357.0" lengthAdjust="spacing" xml:space="preserve">      d%WdWOv88^&#x27;&#x27;&#x27;&#x27;^v%}^:%dov}d88888o^:^|odO%v:&#x27;&#x27;&#x27;:r^:r^r}}}%O8O%o}||vo%dOdW@@W@@@@d</text>
-<text x="26" y="324.3" class="a" textLength="352.8" lengthAdjust="spacing" xml:space="preserve">      d      d@o&#x27;&#x27;:|odo|^vdW@@WW@WW88%}v|vo%dOW8r` `^^::::rvo}v|v}ov}}vd8W@@@@@@@@@@</text>
-<text x="26" y="333.2" class="a" textLength="352.8" lengthAdjust="spacing" xml:space="preserve">             W@W^&#x27;^|odOdo}}}v|vv|v%%OOdddOOOd%%dr   `&#x27;:&#x27;:^r}%d8W8OO8WW@@@@@@@@@@@@@W</text>
-<text x="26" y="342.1" class="a" textLength="361.2" lengthAdjust="spacing" xml:space="preserve">             88@d&#x27;:^|%v:r%8d|&#x27;&#x27;:&#x27;`^&#x27;r|oOdov^&#x27;&#x27;r%:      `:r|vv}%%dW@@@@@@@@@@@@@@@W8W@8</text>
-<text x="26" y="351.0" class="a" textLength="365.4" lengthAdjust="spacing" xml:space="preserve">              O@@v` &#x27;v|`  ```:^v}o}|^&#x27;:^r:&#x27;  `^o:     &#x27;:|v%OW@@@@@@@@@@WW@@@@@@@@@OW@@@</text>
-<text x="26" y="359.9" class="a" textLength="365.4" lengthAdjust="spacing" xml:space="preserve">                @O}^|}|`   `&#x27;:```&#x27;&#x27;:::&#x27;&#x27;&#x27;`  `^vov^:::^vvo%OW@W@@@@88WW@WW@@@@@@@@@@@@@8</text>
-<text x="26" y="368.8" class="a" textLength="361.2" lengthAdjust="spacing" xml:space="preserve">                OWOOo%%v`  `&#x27;^|}}o}v|r^&#x27;`   ^v}oo%}}}}o%O8WWWWW@8o}o%OW@@@@@@@@@@@@@@8</text>
-<text x="26" y="377.7" class="a" textLength="361.2" lengthAdjust="spacing" xml:space="preserve">                  %OWWWOo:   &#x27;&#x27;:&#x27;^ ```    `^|voddOOO8OO8W@W8dodo||v}%8d%dOO8@WWW8O8ooo</text>
-<text x="26" y="386.6" class="a" textLength="361.2" lengthAdjust="spacing" xml:space="preserve">                   OWW8OOor&#x27;`  `:^:` ```::rv}odO8O8WO8W8OddO%vrr|||o%o%ov|vvvv}v|r%d^|</text>
-<text x="26" y="395.5" class="a" textLength="361.2" lengthAdjust="spacing" xml:space="preserve">                    }%%d%%o}|^:^r|rrr^^r|v}%odOOWWOOOO8o%dOvr^^r^|o}||r::^^^^::^||vr^r</text>
-<text x="26" y="404.4" class="a" textLength="365.4" lengthAdjust="spacing" xml:space="preserve">                    rvo%dO%88Od%%d%%OOOd8OdddWWWWWW8d%OO%vr^^^rr||^::::&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;^rrr^:^^</text>
-<text x="26" y="413.3" class="a" textLength="373.8" lengthAdjust="spacing" xml:space="preserve">                    }ov}%dd8WW8O@WW8WWW8O%WWWWW@@W88O%}v|rr|rr^::::&#x27;&#x27;&#x27;&#x27;&#x27;::&#x27;&#x27;&#x27;&#x27;&#x27;::::&#x27;&#x27;::&#x27;r</text>
-<text x="26" y="422.2" class="a" textLength="382.2" lengthAdjust="spacing" xml:space="preserve">                    v^:^v}dd88O8W@W@@WWOW@W8O8W8W8d%}|r|v|r^:::::&#x27;::::::&#x27;&#x27;&#x27;&#x27;:&#x27;&#x27;:^::&#x27;&#x27;`&#x27;&#x27;`:|</text>
-<text x="26" y="431.1" class="a" textLength="390.6" lengthAdjust="spacing" xml:space="preserve">                      |^`^|v}dOOO88888Oddd%O88O%ov||||v|r^^^^::::::::::::::::::::::&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;``:</text>
-<text x="26" y="440.0" class="a" textLength="403.2" lengthAdjust="spacing" xml:space="preserve">                      |}v:&#x27;ov^}}}}}d%oo%%vv}}}vrr|vvr^^^^^^^::^^:::^^^^^^^^:::::::::::::&#x27;&#x27;&#x27;&#x27;` `^</text>
-<text x="26" y="448.9" class="a" textLength="411.6" lengthAdjust="spacing" xml:space="preserve">                          &#x27;rrv| &#x27;^vv}v||rrr||||||^^:^^^^^:^^^^^^^^^rrr^^^::::::&#x27;::^^::::::&#x27;:&#x27;&#x27;```^</text>
-<text x="26" y="457.8" class="a" textLength="420.0" lengthAdjust="spacing" xml:space="preserve">                           :&#x27;``  r}o}v}}}}|r^&#x27;&#x27;::::^^^^:::::::::^^^^^::::&#x27;:&#x27;&#x27;``&#x27;&#x27;:::::&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;:</text>
-<text x="26" y="466.7" class="a" textLength="420.0" lengthAdjust="spacing" xml:space="preserve">                           |^    `:^^::&#x27;&#x27;&#x27;``&#x27;&#x27;&#x27;::^^::&#x27;::&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;::::::&#x27;&#x27;&#x27;&#x27;&#x27;`````````&#x27;&#x27;&#x27;&#x27;&#x27;`` `````&#x27;&#x27;&#x27;&#x27;&#x27;</text>
-<text x="474.0" y="60.0" class="h" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">nicolas@lainocs</text>
-<text x="589.2" y="60.0" class="d" textLength="302.4" lengthAdjust="spacing" xml:space="preserve">------------------------------------------</text>
-<text x="474.0" y="76.0" class="k" textLength="21.6" lengthAdjust="spacing" xml:space="preserve">OS:</text>
-<text x="502.8" y="76.0" class="d" textLength="345.6" lengthAdjust="spacing" xml:space="preserve">................................................</text>
-<text x="855.6" y="76.0" class="v" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">macOS</text>
-<text x="474.0" y="92.0" class="k" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">Host:</text>
-<text x="517.2" y="92.0" class="d" textLength="230.4" lengthAdjust="spacing" xml:space="preserve">................................</text>
-<text x="754.8" y="92.0" class="v" textLength="136.8" lengthAdjust="spacing" xml:space="preserve">Lainocs (freelance)</text>
-<text x="474.0" y="108.0" class="k" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">Kernel:</text>
-<text x="531.6" y="108.0" class="d" textLength="180.0" lengthAdjust="spacing" xml:space="preserve">.........................</text>
-<text x="718.8" y="108.0" class="v" textLength="172.8" lengthAdjust="spacing" xml:space="preserve">Full-stack web developer</text>
-<text x="474.0" y="124.0" class="k" textLength="79.2" lengthAdjust="spacing" xml:space="preserve">Previously:</text>
-<text x="560.4" y="124.0" class="d" textLength="151.2" lengthAdjust="spacing" xml:space="preserve">.....................</text>
-<text x="718.8" y="124.0" class="v" textLength="172.8" lengthAdjust="spacing" xml:space="preserve">Escape (YC W23), 2 years</text>
-<text x="474.0" y="140.0" class="k" textLength="64.8" lengthAdjust="spacing" xml:space="preserve">Location:</text>
-<text x="546.0" y="140.0" class="d" textLength="187.2" lengthAdjust="spacing" xml:space="preserve">..........................</text>
-<text x="740.4" y="140.0" class="v" textLength="151.2" lengthAdjust="spacing" xml:space="preserve">Paris, Bangkok, Seoul</text>
-<text x="474.0" y="172.0" class="k" textLength="158.4" lengthAdjust="spacing" xml:space="preserve">Languages.Programming:</text>
-<text x="639.6" y="172.0" class="d" textLength="28.8" lengthAdjust="spacing" xml:space="preserve">....</text>
-<text x="675.6" y="172.0" class="v" textLength="216.0" lengthAdjust="spacing" xml:space="preserve">TypeScript, JavaScript, Python</text>
-<text x="474.0" y="188.0" class="k" textLength="136.8" lengthAdjust="spacing" xml:space="preserve">Languages.Computer:</text>
-<text x="618.0" y="188.0" class="d" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">..............</text>
-<text x="726.0" y="188.0" class="v" textLength="165.6" lengthAdjust="spacing" xml:space="preserve">HTML, CSS, SQL, GraphQL</text>
-<text x="474.0" y="204.0" class="k" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">Languages.Real:</text>
-<text x="589.2" y="204.0" class="d" textLength="187.2" lengthAdjust="spacing" xml:space="preserve">..........................</text>
-<text x="783.6" y="204.0" class="v" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">French, English</text>
-<text x="474.0" y="236.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Stack:</text>
-<text x="524.4" y="236.0" class="d" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">.....</text>
-<text x="567.6" y="236.0" class="v" textLength="324.0" lengthAdjust="spacing" xml:space="preserve">Next.js, React, Tailwind, Node.js, PostgreSQL</text>
-<text x="474.0" y="252.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Focus:</text>
-<text x="524.4" y="252.0" class="d" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">...............</text>
-<text x="639.6" y="252.0" class="v" textLength="252.0" lengthAdjust="spacing" xml:space="preserve">Web apps, 3D on the web, product UI</text>
-<text x="474.0" y="268.0" class="k" textLength="122.4" lengthAdjust="spacing" xml:space="preserve">Hobbies.Software:</text>
-<text x="603.6" y="268.0" class="d" textLength="57.6" lengthAdjust="spacing" xml:space="preserve">........</text>
-<text x="668.4" y="268.0" class="v" textLength="223.2" lengthAdjust="spacing" xml:space="preserve">Home lab, Creative coding, Bots</text>
-<text x="474.0" y="284.0" class="k" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">Hobbies.Other:</text>
-<text x="582.0" y="284.0" class="d" textLength="151.2" lengthAdjust="spacing" xml:space="preserve">.....................</text>
-<text x="740.4" y="284.0" class="v" textLength="151.2" lengthAdjust="spacing" xml:space="preserve">Cinema, Music, Travel</text>
-<text x="474.0" y="316.0" class="d" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">- </text>
-<text x="488.4" y="316.0" class="h" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">Contact</text>
-<text x="546.0" y="316.0" class="d" textLength="345.6" lengthAdjust="spacing" xml:space="preserve">------------------------------------------------</text>
-<text x="474.0" y="332.0" class="k" textLength="57.6" lengthAdjust="spacing" xml:space="preserve">Website:</text>
-<text x="538.8" y="332.0" class="d" textLength="273.6" lengthAdjust="spacing" xml:space="preserve">......................................</text>
-<text x="819.6" y="332.0" class="v" textLength="72.0" lengthAdjust="spacing" xml:space="preserve">lainocs.fr</text>
-<text x="474.0" y="348.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Email:</text>
-<text x="524.4" y="348.0" class="d" textLength="230.4" lengthAdjust="spacing" xml:space="preserve">................................</text>
-<text x="762.0" y="348.0" class="v" textLength="129.6" lengthAdjust="spacing" xml:space="preserve">contact@lainocs.fr</text>
-<text x="474.0" y="364.0" class="k" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">Email.Personal:</text>
-<text x="589.2" y="364.0" class="d" textLength="136.8" lengthAdjust="spacing" xml:space="preserve">...................</text>
-<text x="733.2" y="364.0" class="v" textLength="158.4" lengthAdjust="spacing" xml:space="preserve">ndegarrigues@gmail.com</text>
-<text x="474.0" y="380.0" class="k" textLength="64.8" lengthAdjust="spacing" xml:space="preserve">LinkedIn:</text>
-<text x="546.0" y="380.0" class="d" textLength="208.8" lengthAdjust="spacing" xml:space="preserve">.............................</text>
-<text x="762.0" y="380.0" class="v" textLength="129.6" lengthAdjust="spacing" xml:space="preserve">nicolasdegarrigues</text>
-<text x="474.0" y="396.0" class="k" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">Malt:</text>
-<text x="517.2" y="396.0" class="d" textLength="237.6" lengthAdjust="spacing" xml:space="preserve">.................................</text>
-<text x="762.0" y="396.0" class="v" textLength="129.6" lengthAdjust="spacing" xml:space="preserve">nicolasdegarrigues</text>
-<text x="474.0" y="428.0" class="d" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">- </text>
-<text x="488.4" y="428.0" class="h" textLength="86.4" lengthAdjust="spacing" xml:space="preserve">GitHub Stats</text>
-<text x="582.0" y="428.0" class="d" textLength="309.6" lengthAdjust="spacing" xml:space="preserve">-------------------------------------------</text>
-<text x="474.0" y="444.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Repos:</text>
-<text x="524.4" y="444.0" class="d" textLength="122.4" lengthAdjust="spacing" xml:space="preserve">.................</text>
-<text x="654.0" y="444.0" class="v" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">68</text>
-<text x="675.6" y="444.0" class="d" textLength="7.2" lengthAdjust="spacing" xml:space="preserve">|</text>
-<text x="690.0" y="444.0" class="k" textLength="72.0" lengthAdjust="spacing" xml:space="preserve">Followers:</text>
-<text x="769.2" y="444.0" class="d" textLength="93.6" lengthAdjust="spacing" xml:space="preserve">.............</text>
-<text x="870.0" y="444.0" class="v" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">93</text>
-<text x="474.0" y="460.0" class="k" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">Contributions:</text>
-<text x="582.0" y="460.0" class="d" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">......</text>
-<text x="632.4" y="460.0" class="v" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">2,950</text>
-<text x="675.6" y="460.0" class="d" textLength="7.2" lengthAdjust="spacing" xml:space="preserve">|</text>
-<text x="690.0" y="460.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Since:</text>
-<text x="740.4" y="460.0" class="d" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">...............</text>
-<text x="855.6" y="460.0" class="v" textLength="28.8" lengthAdjust="spacing" xml:space="preserve">2020</text>
+<text x="456.5" y="21" class="bar" text-anchor="middle">nicolas@lainocs: ~</text>
+<text x="26" y="66.2" class="a" textLength="193.2" lengthAdjust="spacing" xml:space="preserve">                                       r}}|r^:</text>
+<text x="26" y="75.1" class="a" textLength="193.2" lengthAdjust="spacing" xml:space="preserve">                                     %oo|rrrr:</text>
+<text x="26" y="84.0" class="a" textLength="231.0" lengthAdjust="spacing" xml:space="preserve">                          ^r|rr^^  ^d}oooooooo%%ddOOvr^</text>
+<text x="26" y="92.9" class="a" textLength="247.8" lengthAdjust="spacing" xml:space="preserve">                     |odooooooo}}oodo}%O8Odoooooooo%%%ddO%r</text>
+<text x="26" y="101.8" class="a" textLength="252.0" lengthAdjust="spacing" xml:space="preserve">                   %%ooooo}oo}%OooooOWWOo}oooooooooooo}}o%d8</text>
+<text x="26" y="110.7" class="a" textLength="268.8" lengthAdjust="spacing" xml:space="preserve">                 d%%oooo%dO8W88OW%d@Wdo%%dd%ooooooooooooooooo%o|</text>
+<text x="26" y="119.6" class="a" textLength="281.4" lengthAdjust="spacing" xml:space="preserve">               r8d%oooooooo}odW@WW@Ooooooooo%oooooo}%%%ooooooooo%dr</text>
+<text x="26" y="128.5" class="a" textLength="289.8" lengthAdjust="spacing" xml:space="preserve">         |v|vod%ooooo}%dOOd%o}}O@Wo%O8WO%ooooo%%ooo}}o8@W8dooo%ooooO|</text>
+<text x="26" y="137.4" class="a" textLength="294.0" lengthAdjust="spacing" xml:space="preserve">           :%OdooooodW@@@@W@@8d}d%8@@@@@@OoooooOWdooooooOWW@8ooooooood</text>
+<text x="26" y="146.3" class="a" textLength="298.2" lengthAdjust="spacing" xml:space="preserve">          |dooooo}dW8WW@W@@@@@@W%%|r|^^r:^O%ooood@W8ddoo}oOWWW%}ooo%ooO</text>
+<text x="26" y="155.2" class="a" textLength="302.4" lengthAdjust="spacing" xml:space="preserve">        vdoo%ooooO%oW@@@@Wd}^```&#x27;       `&#x27;&#x27;doooooo8WWWWo}}}%8WW%}o}8d}o8</text>
+<text x="26" y="164.1" class="a" textLength="306.6" lengthAdjust="spacing" xml:space="preserve">       Ooo%doooooooW@@@@v&#x27;&#x27;&#x27;              &#x27;&#x27;dooo}dOOWWWWo}o}}d@Woo}d@8%o8</text>
+<text x="26" y="173.0" class="a" textLength="315.0" lengthAdjust="spacing" xml:space="preserve">     |dood8oooooooo@@@@:&#x27;&#x27;`                `&#x27;dooo}%WWWWW8}oo}}oWd}}%WWW8dW%</text>
+<text x="26" y="181.9" class="a" textLength="331.8" lengthAdjust="spacing" xml:space="preserve">     do}^Oooo%88}o}W@@|&#x27;&#x27;                 ``:^%%oo}o8WWWWO}}}}}}%}}o@WW@WW@@W%v</text>
+<text x="26" y="190.8" class="a" textLength="331.8" lengthAdjust="spacing" xml:space="preserve">    Oo: dooooW@WOoo%@W`&#x27;`           `^%88dovrr|vdooo}%8WWW}}}}}}}o}o@%W@WWW@@}`</text>
+<text x="26" y="199.7" class="a" textLength="331.8" lengthAdjust="spacing" xml:space="preserve">    %^^dooo}WWWW@%oo8o&#x27;` `&#x27;&#x27;        &#x27;^^^&#x27;&#x27;:&#x27;:::&#x27;^oO%oo}%OW%oo}}}}Ooo@8}od8W@@@o</text>
+<text x="26" y="208.6" class="a" textLength="340.2" lengthAdjust="spacing" xml:space="preserve">     OooooodWWWWWdooO%o%%o}o}&#x27;      &#x27;^&#x27;  ``&#x27;^rr^: &#x27;|ooO%%oooo}o}}O8o@WWdo}o%dd8@W</text>
+<text x="26" y="217.5" class="a" textLength="344.4" lengthAdjust="spacing" xml:space="preserve">    d}}%%}}WWWWW@%o%Ov:&#x27;&#x27;::::r`:`::^v   &#x27;}|%@@@8`|&#x27;| &#x27;^doooo}}W}vWW8WWWWWW888Oo%%}</text>
+<text x="26" y="226.4" class="a" textLength="357.0" lengthAdjust="spacing" xml:space="preserve">   oo}%O}oo@WWWWdovdO&#x27;   :r}}^r||` `v:  :  `}|^&#x27;   r  `rdooo}d@dv@WWWW8WWW8O%ooo%|r}W</text>
+<text x="26" y="235.3" class="a" textLength="352.8" lengthAdjust="spacing" xml:space="preserve">   8}}@}}OOWWWOd}rWW% :or`O@@@:o|   &#x27;v^ ```````` `|     Oooo}8WWdWWW@W8%}}ooooo%dO8W</text>
+<text x="26" y="244.2" class="a" textLength="352.8" lengthAdjust="spacing" xml:space="preserve">    dOdo}OWWWWWWo^8OW :    &#x27;  `%`    `^:&#x27;`````&#x27;:::      Oo%oo%@WWWWWWWOOdoo}odOW@Wo&#x27;</text>
+<text x="26" y="253.1" class="a" textLength="352.8" lengthAdjust="spacing" xml:space="preserve">    ^W OodWWWWWWW8}W@&#x27;        |r        `:::::`         d|Wo}}dWWWWWWW8%ooooooo}}%dW</text>
+<text x="26" y="262.0" class="a" textLength="348.6" lengthAdjust="spacing" xml:space="preserve">        %OWWWWWWWWW%O&#x27;   `&#x27;&#x27;&#x27;&#x27;&#x27;     `:&#x27;        ``       o|rWdo}}o%%%%o}}%OOddOO8W@%</text>
+<text x="26" y="270.9" class="a" textLength="344.4" lengthAdjust="spacing" xml:space="preserve">        }WWWWW8@WWWW@&#x27;&#x27;:&#x27;`      &#x27;::^|}}}}v|vo%Odd%^     `} ^8W8O%%o}}}%OOWW@W@@@@}</text>
+<text x="26" y="279.8" class="a" textLength="348.6" lengthAdjust="spacing" xml:space="preserve">       %W%r%WW8oWWWW@^       `:|8WO||||||v|^:|}}:vd         |WW8W8OdddOOWWWWWWWWW@v</text>
+<text x="26" y="288.7" class="a" textLength="348.6" lengthAdjust="spacing" xml:space="preserve">            d@8ooOW@@W    `%%orrr:````   `:}@d^  `d        OdOW&#x27;`^%@@@WW@@WWW@@@}@}</text>
+<text x="26" y="297.6" class="a" textLength="336.0" lengthAdjust="spacing" xml:space="preserve">            `8%%%%@@@@d    %}`^o@d|:&#x27;:^rr:&#x27;``    `%|     r}%8O8@@@@@@WWWWW@dW@@o</text>
+<text x="26" y="306.5" class="a" textLength="327.6" lengthAdjust="spacing" xml:space="preserve">             ^rdoW@W@@@|   :d`   `&#x27;`&#x27;&#x27;``         ^d8do%ooW88O8}@@@@@@WWWW8%oOO</text>
+<text x="26" y="315.4" class="a" textLength="331.8" lengthAdjust="spacing" xml:space="preserve">              v%O@W@@@@@}&#x27; }%v     `&#x27;:^||^`     &#x27;OO8W88O88888o`8@@@@@WWWWdo%%d&#x27;</text>
+<text x="26" y="324.3" class="a" textLength="331.8" lengthAdjust="spacing" xml:space="preserve">               O|@WWW@@@@WOOdW%^   `&#x27;rr|``    &#x27;vW8W8888888Wo:&#x27;&#x27;v@@@@@8W@WWWW8dr</text>
+<text x="26" y="333.2" class="a" textLength="327.6" lengthAdjust="spacing" xml:space="preserve">                  }8 o@@@@W88888o^:   &#x27;O|&#x27;:&#x27;}%o8WWW88888Wo|&#x27;&#x27;&#x27;`&#x27;@@@@@W%o%d8W@r</text>
+<text x="26" y="342.1" class="a" textLength="327.6" lengthAdjust="spacing" xml:space="preserve">                      @@@@@@WdOO8%8O%doWO%8WWWWWWWW88Wd}:&#x27;::`  :}@@@@W@@W8WW8o</text>
+<text x="26" y="351.0" class="a" textLength="310.8" lengthAdjust="spacing" xml:space="preserve">                     |r`r@@@@@WdOOO88888888WWWWWWWWd}^&#x27;&#x27;::`      v@@@@W@@8</text>
+<text x="26" y="359.9" class="a" textLength="306.6" lengthAdjust="spacing" xml:space="preserve">                        }@@Wd@@@@W88888888WWWW8Wo^:&#x27;:::&#x27;`         |o`^|v|</text>
+<text x="26" y="368.8" class="a" textLength="302.4" lengthAdjust="spacing" xml:space="preserve">                            ^@@@@@@@o|v}o}v}|::&#x27;:::::&#x27;`            `dorr</text>
+<text x="26" y="377.7" class="a" textLength="310.8" lengthAdjust="spacing" xml:space="preserve">                                %@@vO:&#x27;&#x27;&#x27;&#x27;&#x27;::::::::&#x27;`            :r|^&#x27;:&#x27;|^</text>
+<text x="26" y="386.6" class="a" textLength="327.6" lengthAdjust="spacing" xml:space="preserve">                                 `&#x27;&#x27;r8 `&#x27;&#x27;:::::&#x27;&#x27;`            :^|^:::::^r::|r^</text>
+<text x="26" y="395.5" class="a" textLength="344.4" lengthAdjust="spacing" xml:space="preserve">                             :r|^r:|8:}     ``            &#x27;^^r:::::&#x27;rv|r::::::&#x27;r|^</text>
+<text x="26" y="404.4" class="a" textLength="361.2" lengthAdjust="spacing" xml:space="preserve">                       ^r|r::::^o&#x27;&#x27;@  ^               :^r|^::::::r||^::::::::::::::|r^</text>
+<text x="26" y="413.3" class="a" textLength="373.8" lengthAdjust="spacing" xml:space="preserve">                  ^r|^::::::::&#x27;o:::o^           &#x27;::^r|::::::::^^r::::::::::::::::::::&#x27;^|^</text>
+<text x="26" y="422.2" class="a" textLength="386.4" lengthAdjust="spacing" xml:space="preserve">              r|^&#x27;&#x27;::::::::::::v::::^||r^^rrr||r::::::::::::::::::::::::::::::::::::::&#x27;&#x27;&#x27;:vr</text>
+<text x="26" y="431.1" class="a" textLength="394.8" lengthAdjust="spacing" xml:space="preserve">          ^|r&#x27;::::::::::::&#x27;:::::^:::::::::::::::::::^^^:::::::::::::::::::::::::::::::::::::||</text>
+<text x="26" y="440.0" class="a" textLength="403.2" lengthAdjust="spacing" xml:space="preserve">        ||::&#x27;&#x27;:::::&#x27;::::::::::::::&#x27;::^r^::::^rrrrrr^:&#x27;&#x27;&#x27;::::::::::&#x27;&#x27;::::::::::&#x27;:::&#x27;::::::::::&#x27;rv</text>
+<text x="26" y="448.9" class="a" textLength="407.4" lengthAdjust="spacing" xml:space="preserve">       v&#x27;:::&#x27;&#x27;&#x27;:::&#x27;:&#x27;&#x27;::::::::::::&#x27;::&#x27;&#x27;:^rr^:&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;:&#x27;::&#x27;&#x27;&#x27;&#x27;::::&#x27;&#x27;::&#x27;&#x27;::::::&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;^r^^^::::%</text>
+<text x="26" y="457.8" class="a" textLength="411.6" lengthAdjust="spacing" xml:space="preserve">     |r:::::&#x27;&#x27;|:::&#x27;::::::::::::::&#x27;::::::&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;:&#x27;::&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;::::&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;::::::::::&#x27;&#x27;&#x27;&#x27;&#x27;|||:&#x27;:::::::&#x27;%</text>
+<text x="26" y="466.7" class="a" textLength="415.8" lengthAdjust="spacing" xml:space="preserve">    vr:::::::^v&#x27;:::::::::::::::&#x27;:&#x27;::::::&#x27;&#x27;&#x27;:&#x27;&#x27;&#x27;:::::&#x27;&#x27;:&#x27;:::::::&#x27;&#x27;&#x27;&#x27;:::::::::::&#x27;&#x27;&#x27;r||&#x27;&#x27;&#x27;&#x27;::::::::&#x27;:o</text>
+<text x="469.8" y="60.0" class="h" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">nicolas@lainocs</text>
+<text x="585.0" y="60.0" class="d" textLength="302.4" lengthAdjust="spacing" xml:space="preserve">------------------------------------------</text>
+<text x="469.8" y="76.0" class="k" textLength="21.6" lengthAdjust="spacing" xml:space="preserve">OS:</text>
+<text x="498.6" y="76.0" class="d" textLength="345.6" lengthAdjust="spacing" xml:space="preserve">................................................</text>
+<text x="851.4" y="76.0" class="v" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">macOS</text>
+<text x="469.8" y="92.0" class="k" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">Host:</text>
+<text x="513.0" y="92.0" class="d" textLength="230.4" lengthAdjust="spacing" xml:space="preserve">................................</text>
+<text x="750.6" y="92.0" class="v" textLength="136.8" lengthAdjust="spacing" xml:space="preserve">Lainocs (freelance)</text>
+<text x="469.8" y="108.0" class="k" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">Kernel:</text>
+<text x="527.4" y="108.0" class="d" textLength="180.0" lengthAdjust="spacing" xml:space="preserve">.........................</text>
+<text x="714.6" y="108.0" class="v" textLength="172.8" lengthAdjust="spacing" xml:space="preserve">Full-stack web developer</text>
+<text x="469.8" y="124.0" class="k" textLength="79.2" lengthAdjust="spacing" xml:space="preserve">Previously:</text>
+<text x="556.2" y="124.0" class="d" textLength="151.2" lengthAdjust="spacing" xml:space="preserve">.....................</text>
+<text x="714.6" y="124.0" class="v" textLength="172.8" lengthAdjust="spacing" xml:space="preserve">Escape (YC W23), 2 years</text>
+<text x="469.8" y="140.0" class="k" textLength="64.8" lengthAdjust="spacing" xml:space="preserve">Location:</text>
+<text x="541.8" y="140.0" class="d" textLength="187.2" lengthAdjust="spacing" xml:space="preserve">..........................</text>
+<text x="736.2" y="140.0" class="v" textLength="151.2" lengthAdjust="spacing" xml:space="preserve">Paris, Bangkok, Seoul</text>
+<text x="469.8" y="172.0" class="k" textLength="158.4" lengthAdjust="spacing" xml:space="preserve">Languages.Programming:</text>
+<text x="635.4" y="172.0" class="d" textLength="28.8" lengthAdjust="spacing" xml:space="preserve">....</text>
+<text x="671.4" y="172.0" class="v" textLength="216.0" lengthAdjust="spacing" xml:space="preserve">TypeScript, JavaScript, Python</text>
+<text x="469.8" y="188.0" class="k" textLength="136.8" lengthAdjust="spacing" xml:space="preserve">Languages.Computer:</text>
+<text x="613.8" y="188.0" class="d" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">..............</text>
+<text x="721.8" y="188.0" class="v" textLength="165.6" lengthAdjust="spacing" xml:space="preserve">HTML, CSS, SQL, GraphQL</text>
+<text x="469.8" y="204.0" class="k" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">Languages.Real:</text>
+<text x="585.0" y="204.0" class="d" textLength="187.2" lengthAdjust="spacing" xml:space="preserve">..........................</text>
+<text x="779.4" y="204.0" class="v" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">French, English</text>
+<text x="469.8" y="236.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Stack:</text>
+<text x="520.2" y="236.0" class="d" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">.....</text>
+<text x="563.4" y="236.0" class="v" textLength="324.0" lengthAdjust="spacing" xml:space="preserve">Next.js, React, Tailwind, Node.js, PostgreSQL</text>
+<text x="469.8" y="252.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Focus:</text>
+<text x="520.2" y="252.0" class="d" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">...............</text>
+<text x="635.4" y="252.0" class="v" textLength="252.0" lengthAdjust="spacing" xml:space="preserve">Web apps, 3D on the web, product UI</text>
+<text x="469.8" y="268.0" class="k" textLength="122.4" lengthAdjust="spacing" xml:space="preserve">Hobbies.Software:</text>
+<text x="599.4" y="268.0" class="d" textLength="57.6" lengthAdjust="spacing" xml:space="preserve">........</text>
+<text x="664.2" y="268.0" class="v" textLength="223.2" lengthAdjust="spacing" xml:space="preserve">Home lab, Creative coding, Bots</text>
+<text x="469.8" y="284.0" class="k" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">Hobbies.Other:</text>
+<text x="577.8" y="284.0" class="d" textLength="151.2" lengthAdjust="spacing" xml:space="preserve">.....................</text>
+<text x="736.2" y="284.0" class="v" textLength="151.2" lengthAdjust="spacing" xml:space="preserve">Cinema, Music, Travel</text>
+<text x="469.8" y="316.0" class="d" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">- </text>
+<text x="484.2" y="316.0" class="h" textLength="50.4" lengthAdjust="spacing" xml:space="preserve">Contact</text>
+<text x="541.8" y="316.0" class="d" textLength="345.6" lengthAdjust="spacing" xml:space="preserve">------------------------------------------------</text>
+<text x="469.8" y="332.0" class="k" textLength="57.6" lengthAdjust="spacing" xml:space="preserve">Website:</text>
+<text x="534.6" y="332.0" class="d" textLength="273.6" lengthAdjust="spacing" xml:space="preserve">......................................</text>
+<text x="815.4" y="332.0" class="v" textLength="72.0" lengthAdjust="spacing" xml:space="preserve">lainocs.fr</text>
+<text x="469.8" y="348.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Email:</text>
+<text x="520.2" y="348.0" class="d" textLength="230.4" lengthAdjust="spacing" xml:space="preserve">................................</text>
+<text x="757.8" y="348.0" class="v" textLength="129.6" lengthAdjust="spacing" xml:space="preserve">contact@lainocs.fr</text>
+<text x="469.8" y="364.0" class="k" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">Email.Personal:</text>
+<text x="585.0" y="364.0" class="d" textLength="136.8" lengthAdjust="spacing" xml:space="preserve">...................</text>
+<text x="729.0" y="364.0" class="v" textLength="158.4" lengthAdjust="spacing" xml:space="preserve">ndegarrigues@gmail.com</text>
+<text x="469.8" y="380.0" class="k" textLength="64.8" lengthAdjust="spacing" xml:space="preserve">LinkedIn:</text>
+<text x="541.8" y="380.0" class="d" textLength="208.8" lengthAdjust="spacing" xml:space="preserve">.............................</text>
+<text x="757.8" y="380.0" class="v" textLength="129.6" lengthAdjust="spacing" xml:space="preserve">nicolasdegarrigues</text>
+<text x="469.8" y="396.0" class="k" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">Malt:</text>
+<text x="513.0" y="396.0" class="d" textLength="237.6" lengthAdjust="spacing" xml:space="preserve">.................................</text>
+<text x="757.8" y="396.0" class="v" textLength="129.6" lengthAdjust="spacing" xml:space="preserve">nicolasdegarrigues</text>
+<text x="469.8" y="428.0" class="d" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">- </text>
+<text x="484.2" y="428.0" class="h" textLength="86.4" lengthAdjust="spacing" xml:space="preserve">GitHub Stats</text>
+<text x="577.8" y="428.0" class="d" textLength="309.6" lengthAdjust="spacing" xml:space="preserve">-------------------------------------------</text>
+<text x="469.8" y="444.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Repos:</text>
+<text x="520.2" y="444.0" class="d" textLength="122.4" lengthAdjust="spacing" xml:space="preserve">.................</text>
+<text x="649.8" y="444.0" class="v" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">68</text>
+<text x="671.4" y="444.0" class="d" textLength="7.2" lengthAdjust="spacing" xml:space="preserve">|</text>
+<text x="685.8" y="444.0" class="k" textLength="72.0" lengthAdjust="spacing" xml:space="preserve">Followers:</text>
+<text x="765.0" y="444.0" class="d" textLength="93.6" lengthAdjust="spacing" xml:space="preserve">.............</text>
+<text x="865.8" y="444.0" class="v" textLength="14.4" lengthAdjust="spacing" xml:space="preserve">93</text>
+<text x="469.8" y="460.0" class="k" textLength="100.8" lengthAdjust="spacing" xml:space="preserve">Contributions:</text>
+<text x="577.8" y="460.0" class="d" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">......</text>
+<text x="628.2" y="460.0" class="v" textLength="36.0" lengthAdjust="spacing" xml:space="preserve">2,950</text>
+<text x="671.4" y="460.0" class="d" textLength="7.2" lengthAdjust="spacing" xml:space="preserve">|</text>
+<text x="685.8" y="460.0" class="k" textLength="43.2" lengthAdjust="spacing" xml:space="preserve">Since:</text>
+<text x="736.2" y="460.0" class="d" textLength="108.0" lengthAdjust="spacing" xml:space="preserve">...............</text>
+<text x="851.4" y="460.0" class="v" textLength="28.8" lengthAdjust="spacing" xml:space="preserve">2020</text>
 </svg>
